@@ -66,7 +66,7 @@
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 📊 AutoEDA - Automated Exploratory Data Analysis App
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/sanajjadhav15/AutoEDA)
