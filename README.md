@@ -6,8 +6,8 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaj-jadhav/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.sanajjadhav.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanajjadhav77@gmail.com)
 
 </div>
@@ -69,7 +69,7 @@
 <div align="center">
 
 ### 📊 AutoEDA - Automated Exploratory Data Analysis App
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/your-username/autoeda)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/sanajjadhav15/AutoEDA)
 
 *Streamlit-based Python application that automates data preprocessing and EDA*
 - **Tech Stack:** Python, Pandas, NumPy, Seaborn, Streamlit
@@ -79,7 +79,7 @@
 ---
 
 ### 🎬 Netflix Dashboard - Streaming Service Insights
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/your-username/netflix-dashboard)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/sanajjadhav15/Streaming-Service-Insights)
 
 *Interactive analytical dashboard exploring user engagement patterns*
 - **Tech Stack:** Streamlit, Pandas, NumPy, Plotly, Matplotlib
@@ -89,7 +89,7 @@
 ---
 
 ### 🤖 RoboFriends - Robot Directory Web App
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/your-username/robofriends)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/sanajjadhav15/Robofriends)
 
 *Dynamic React application with unique avatar generation*
 - **Tech Stack:** React, JavaScript, Robohash API, Google Sheets
@@ -119,12 +119,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanajjadhav15&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanajjadhav15&layout=compact&langs_count=8&theme=react"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanajjadhav15&theme=react" alt="GitHub Streak" />
 </div>
 
 ---
@@ -132,7 +132,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanajjadhav15&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -143,13 +143,13 @@
 
 I'm always excited to collaborate on interesting projects and discuss new opportunities in **Data Analytics** and **Web Development**!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaj-jadhav/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanajjadhav77@gmail.com)
 
 ---
 
 ### 💡 *"Turning data into insights, one analysis at a time"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=sanajjadhav15&color=brightgreen&style=flat-square)
 
 </div>
