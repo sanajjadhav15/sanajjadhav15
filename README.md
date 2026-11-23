@@ -41,7 +41,7 @@ Fetches the most-starred Python repositories from the GitHub API and visualises 
 `Python` `GitHub API` `Plotly`
 
 ### 🔜 Next: SQL-first analysis project
-A multi-table analysis written in SQL (CTEs, window functions, cohorts) with a Power BI dashboard on top. *(Remove this block until the repo exists.)*
+A multi-table analysis written in SQL (CTEs, window functions, cohorts) with a Power BI dashboard on top.
 
 ---
 
